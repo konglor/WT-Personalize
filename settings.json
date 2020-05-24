@@ -55,6 +55,8 @@
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
                 "name": "Ubuntu",
+                "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\kong",
+                "colorScheme": "Ubuntu",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.7,
                 "source": "Windows.Terminal.Wsl"
@@ -93,6 +95,27 @@
             "red" : "#C50F1F",
             "white" : "#CCCCCC",
             "yellow" : "#C19C00"
+        },
+        {
+            "name":  "Ubuntu",
+            "background":  "#2C001E",
+            "black":  "#4E9A06",
+            "blue":  "#3465A4",
+            "brightBlack":  "#555753",
+            "brightBlue":  "#729FCF",
+            "brightCyan":  "#34E2E2",
+            "brightGreen":  "#8AE234",
+            "brightPurple":  "#AD7FA8",
+            "brightRed":  "#EF2929",
+            "brightWhite":  "#EEEEEE",
+            "brightYellow":  "#FCE94F",
+            "cyan":  "#06989A",
+            "foreground":  "#EEEEEE",
+            "green":  "#300A24",
+            "purple":  "#75507B",
+            "red":  "#CC0000",
+            "white":  "#D3D7CF",
+            "yellow":  "#C4A000"
         }
     ],
 
