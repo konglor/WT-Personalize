@@ -10,6 +10,8 @@
     "theme": "dark",
 
     "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+    "showTabsInTitlebar": true,
+    "showTerminalTitleInTitlebar": true,
 
     // You can add more global application settings here.
     // To learn more about global settings, visit https://aka.ms/terminal-global-settings
@@ -39,6 +41,7 @@
                 "commandline": "powershell.exe",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.7,
+                "padding": "2, 2, 2, 2",
                 "hidden": false
             },
             {
@@ -49,6 +52,7 @@
                 "colorScheme": "Command Prompt",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.7,
+                "padding": "2, 2, 2, 2",
                 "hidden": false
             },
             {
@@ -59,6 +63,7 @@
                 "colorScheme": "Ubuntu",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.7,
+                "padding": "2, 2, 2, 2",
                 "source": "Windows.Terminal.Wsl"
             },
             {
@@ -67,6 +72,7 @@
                 "name": "Azure Cloud Shell",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.7,
+                "padding": "2, 2, 2, 2",
                 "source": "Windows.Terminal.Azure"
             }
         ]
